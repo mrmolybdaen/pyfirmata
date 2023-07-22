@@ -1,6 +1,6 @@
 # pyFirmata
 
-> **Warning**
+> # Warning
 >   This project just recreated ale-novo's fix for use of pullup modes of digital inputs by
 >   copying an existing installation and merging it into a fork of the original pyFirmata repo.
 >   _The project is not under development._
@@ -9,7 +9,7 @@
 >
 >   Your work is awesome!
 
-> **Note**
+> # Note
 >  I will do a C based rewrite at some time which will then be available for Raspberry Pi and amd64.
 
 pyFirmata is a Python interface for the [Firmata](https://firmata.org) protocol. It is fully
