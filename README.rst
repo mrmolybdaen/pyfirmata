@@ -2,17 +2,17 @@
 pyFirmata
 =========
 
-.. warning::
-   This project just recreated ale-novo's fix for use of pullup modes of digital inputs by
-   copying an existing installation and merging it into a fork of the original pyFirmata repo.
-   _The project is not under development._
-   Thanks to https://github.com/tino/pyFirmata tino!
-   Thanks to https://github.com/ale-novo/ ale-novo!
+> **Warning**
+>   This project just recreated ale-novo's fix for use of pullup modes of digital inputs by
+>   copying an existing installation and merging it into a fork of the original pyFirmata repo.
+>   _The project is not under development._
+>   Thanks to https://github.com/tino/pyFirmata tino!
+>   Thanks to https://github.com/ale-novo/ ale-novo!
+>
+>   Your work is awesome!
 
-   Your work is awesome!
-
-.. info::
-   I will do a C based rewrite at some time which will then be available for Raspberry Pi and amd64.
+> **Note**
+>  I will do a C based rewrite at some time which will then be available for Raspberry Pi and amd64.
 
 pyFirmata is a Python interface for the `Firmata`_ protocol. It is fully
 compatible with Firmata 2.1, and has some functionality of version 2.2. It runs
