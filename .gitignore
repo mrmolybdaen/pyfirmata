@@ -7,3 +7,6 @@ MANIFEST
 docs/_build
 
 *.sublime-*
+
+!README.md
+!CHANGES.md
